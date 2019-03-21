@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GPSLauncher</string>
+    <string name="map_title">Карти</string>
+    <string name="music_title">Музика</string>
+    <string name="apps_title">Додатки</string>
+    <string name="settings_title">Налаштування</string>
+</resources>
